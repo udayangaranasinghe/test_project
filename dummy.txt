@@ -5,4 +5,6 @@ This is my dummy text bfile for spring boot appilcation.
 
 modules for next versions
 
+changesr are done ready for merge with master branch
+
 Thank tyou
