@@ -1,5 +1,3 @@
 This is my dummy text bfile for spring boot appilcation. 
-1. Spring boot
-2. Spring data jpa
 
 Thank tyou
